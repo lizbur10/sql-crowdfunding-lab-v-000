@@ -7,11 +7,10 @@ CREATE TABLE projects (
   end_date TEXT
 );
 
--- CREATE TABLE  users (
---
---
--- );
---
+CREATE TABLE  users (
+  id INTEGER PRIMARY KEY
+);
+
 -- CREATE TABLE  pledges (
 --
 --
