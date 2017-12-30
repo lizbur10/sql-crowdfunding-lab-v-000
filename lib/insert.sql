@@ -9,3 +9,23 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Veronica Mars", "Movie", 2000000, "4/1/2013", "4/13/2013");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Lisk", "Software", NULL, "2/29/2016", "3/21/2016");
 
+INSERT INTO users (name, age) VALUES ("Jill Johns",35);
+INSERT INTO users (name, age) VALUES ("Jill Johnson",25);
+INSERT INTO users (name, age) VALUES ("John Johnsson",42);
+INSERT INTO users (name, age) VALUES ("Jenna Josephs",18);
+INSERT INTO users (name, age) VALUES ("Joseph Jackson",54);
+INSERT INTO users (name, age) VALUES ("Jackson Jones",17);
+INSERT INTO users (name, age) VALUES ("Jezebel Jones",62);
+INSERT INTO users (name, age) VALUES ("Jemimah Johnson",30);
+INSERT INTO users (name, age) VALUES ("Jack Jacobs",29);
+INSERT INTO users (name, age) VALUES ("Jeremiah Jacobsen",38);
+INSERT INTO users (name, age) VALUES ("Jerry Johansen",44);
+INSERT INTO users (name, age) VALUES ("Jason Jeremy",45);
+INSERT INTO users (name, age) VALUES ("Jeremy Jason",58);
+INSERT INTO users (name, age) VALUES ("Janet Jacks",21);
+INSERT INTO users (name, age) VALUES ("Joline Jones",27);
+INSERT INTO users (name, age) VALUES ("Jenny Jetson",59);
+INSERT INTO users (name, age) VALUES ("Jane Jansen",49);
+INSERT INTO users (name, age) VALUES ("Jojo Jones",60);
+INSERT INTO users (name, age) VALUES ("James Jamieson",51);
+INSERT INTO users (name, age) VALUES ("Jenny Jacobson",40);
