@@ -8,3 +8,4 @@ INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUE
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Fidget Cube", "Other", 15000, "10/15/2016", "10/19/2016");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Veronica Mars", "Movie", 2000000, "4/1/2013", "4/13/2013");
 INSERT INTO projects (title, category, funding_goal, start_date, end_date) VALUES ("Lisk", "Software", NULL, "2/29/2016", "3/21/2016");
+
